@@ -15,6 +15,6 @@ make build
 
 ### Executando com docker
 ```bash
-docker run --rm -p 8080:8080 jhonata-menezes/covid-saude-proxy
+docker run --rm -p 8080:8080 jhonatamenezes/covid-saude-proxy
 ```
 Acesse - http://localhost:8080/prod/PortalMunicipio
